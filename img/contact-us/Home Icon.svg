@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 24" width="28" height="24">
+	<defs>
+		<image width="28" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAYBAMAAAAbsoCxAAAAAXNSR0IB2cksfwAAAB5QTFRFAAAAC8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0s5ERggAAAAp0Uk5TABDPIID/QFDvnylx8jEAAABwSURBVHicY2AAA0YBBmQgpMhg4mIA4zGqBgmkhibAJUNDFRFcRtXQ0KBSOBcoGRraCuOCJEEgAUkSzoVJQrkwyVBFFMnQIAFkSbA0QhIsjSQJkk5F5oYBNSN4YIsIc6dlonAdWMjjpgGBATOIZGAAAOCgRJT7zT4ZAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Contact Info">
+				<use id="Home Icon" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

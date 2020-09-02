@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 74" width="78" height="74">
+	<defs>
+		<image width="78" height="74" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAABKCAMAAAAi5ZI5AAAAAXNSR0IB2cksfwAAADNQTFRFAAAAC8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0PmYagwAAABF0Uk5TACBggL+vQBBwz//vMI+f31DHFq7aAAABqklEQVR4nMWY27KDIAxFRbwBVv3/r22pTo8iJOyYmbOeO2sSEkJs0zCY1nY7vR1G7tc04+T8hX54YJuCv9HN0tD6uyzSymwub/P+JdEVYhPGN5VtPhjUNmaq8MeiGdwHNLyV1lnMNtM27zAdk6v32HVbOB122TpON0E6phJoLTibtq7X1XW6un89O7ZRlHXYyNO9FTM57SJQZYnBLsmWtyF9PFTogGxrdGu9jpvFYHTKZ6dd2Y21BeixYMPbEFvTWHK8O9DGPI34Fko1C9BzP4hsJQveq6yT7LOmXAiBjZjIsuW4NAgkhYgUehnuuQOTHfHY+3+mzdiwy3ol86BJU43cP1XApTj1JXdDfnA7q2ZwtzH/MLp0rsju1w+blgL+Gjsz3BrZSX1mys+AsOCtN7bUhhcWaB8zL3YhW6unlGF3xT1EW3N7K2V1QkD2FdKfZpY9s5S1XJSh+FcHRV/ImHgJSUKuD2dRaDv3Z3yDT+2MSxLOvQoI4bIYYO3B+aRFyPueZnr4jtFVs/bXcEzqBx1yxeqlGvkuCOxfJvVYvZOLOM1cP2SevifMb69RbM/xn4nQAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Numbers">
+			<use id="Customers Icon" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

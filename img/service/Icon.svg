@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+	<defs>
+		<image width="72" height="72" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAAXNSR0IB2cksfwAAAGNQTFRFAAAAC8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0DbSlEYN/FVxhFklSGSw7GDZDFlNZEnp4DqqdEI2HFz9KDL2sD6CWE3BwFGZoD5eOltInnwAAACF0Uk5TABBAYIBwMCCv3/+/759Qz4//////////////////////sx+MuwAAAyVJREFUeJydmNm2gyAMRR3bip28WrHO//+VVwYRSKBqnrqsbE9CCIEg8FkYxYmwNLp43/TYNb1lxLA8iY5TEgsi7f54HsFEN5QiLEvDvZjcg+Gykl1O+dQoVb8dTO87OIvd/P6Fe+RI/3wzeMGnymGpkxPtdGu1h4MTH8M4Scc5OOly0C8X6XqKQ0hsg17nOIRYReF9lkMyIzOj05wlx3WQKxGLv7L6MKtp83WRtBRP8Dda+tGta3r0tUxxQnTGhupjW92gpNgraFSjKaWKWWEOZh5BvRw6tdKdYewEdnZLQtaG5JhBaQWqha+/XLkoOMCNXriLaOJZeYXPS+4V4kNbM+8K8PzNQCl4/OfiEPJlf1HwOEM962vxctM08NstHqbFtxA8bJj8Jcw8cUAOjvJf01JkmXFB7Jtiuu2vq78NuyHZyMR37IdcIN0ABVf2oCVIYAOi6xeHNZ2pkQdcEgheEID9mQ0VMZjUIpv0gRPm2yWw18ewzW+hLVdtZIslRxTYT1gSrYu80UjbRBVYKsUA1GjCeTjqgS8ZrYKss6FbgoLUPDF5oxSxhYkpPAginZDCQOUJ0La+58WLXs6fwjN/94G0eCxZVU+iOq0B7rFgpwA0GF5sWbnNwWy+ISwCCdlbwotSgeRUjaZmF4hUdhEc1K4khrOKC/YAZNGOULms1iIrZyyN7kHwtJ8VxgxJa2pO+pOKgWc5VrJLrE6Iwt/IOgwWf4Lt+98P9k1STJS25FvLZDctQjuaEa/LXFiHVto7K/4gSHJbw0hFhQVw7QBhT8P1Iw4MNe41ebp6CEGyqnUhKiay4ckuAtlqJelTtSocsyy82Ma5npYeGGntZKpp2ShHWsOSq+y+tpGYJKPOKqNw69UE4ZJYTGoLA6fLEOTq/ZY8aEvFqpBGQJh+SoIdyaZrYOZsaVWXJe3XMdZjZut/9igCj39ne394PDpzXFsChJyR8Rw4zjlDwjnHz1ouztE4+e4Qjhxs/Rcku68isp9XSc9dot47rn7C5Ccq33lN9gOVH7ggC2PX8T17X/djuF3TG9D1ep+8+rs8k0cuLUn9Hv0DN6vCH3HYKqAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Services">
+		<g id="Dark Services">
+			<g id="First Service">
+				<use id="Icon" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2" width="1600" height="2">
+	<defs>
+		<image width="1600" height="2" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABkAAAAACAQMAAAA6goK5AAAAAXNSR0IB2cksfwAAAANQTFRFGSw7PLcnrwAAAA5JREFUeJxjYBgFgwsAAAGSAAFHoNW5AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home">
+		<g id="Header">
+			<use id="Top" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

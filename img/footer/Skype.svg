@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19" width="19" height="19">
+	<defs>
+		<image width="19" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAMAAABFjsb+AAAAAXNSR0IB2cksfwAAADNQTFRFAAAAi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZNFVfigAAABF0Uk5TAFDP/++fQBBgvzAgj9+AcK+75L3eAAAApElEQVR4nFWQ2wLDIAhDIyhqXWv//2sXYb2MJz0EAgBIopqLmVVcUfQOaYGSvkNcK/7uaRv2yWwyyByVqKkUyI/twJG1b6j8sGcOmcunqQtLsM/jM7BSurGJzTOYBcvTZxjyYqT9SDTe+UwYDmJgYK5ZAaYONNcGU6zvSYfSe3LBYmu7a49wXm4cez94q7VvtGW6/90mRVGTB7X7spW1rWcpBnwBqU8FF1oGPEUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Footer">
+				<g id="Social Icon">
+					<use id="Skype" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

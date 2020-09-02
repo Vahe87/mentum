@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 117 29" width="117" height="29">
+	<defs>
+		<image width="117" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAAdCAMAAACjfdO5AAAAAXNSR0IB2cksfwAAADNQTFRFAAAAub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3BH8nYrQAAABF0Uk5TACBQgBCf/7/P7zBgcI9A36/34Lh9AAACu0lEQVR4nL2WSbbjIAxF6THYYO9/tQUSakhSJ6MfTRJj4EqPB9iYEdZ5Z81vI8Q0I/+UG46EUeoPqTlRHL+D1iRxfnqfMSK3uNXCDbaMsRc9nZmjnXrVesMCD2+MV9Ro3qPTS56AxOEu13y66UlPmNITKDXRdOQbVRdJ/wO10XBq4C43PJIrzlywogcrC6JHuvNayfaFyslTMRc+dn5f96yWGBclnKXNLe/yJGpg733bRCTZKuZ4pcY9q0XoPLKSYo2SHvAi1Anz8JzrO7VtAgt1DChaYqFa7ul5SMe1kWKbJJ6K09RSuJj2SnXDMn6TmKmGe0KTx+m80/NEow1YgqLmay3LtE6JG3WY5qybxC/UysXw7oKiY0nlmd203Jz6pFpKa8wfT00N439AG9dXKiQDbjpXKfHT+ecEKifVpIKHCiZdu6Ze0DPqPJkKg4Aj5dzvR9G2wzcqSVyGkBv1AOGclhh3TncTeq/iqqiYww7dtpGmRhBy/LjJ0NQpotUraPTJvgwEHW9ufFbT2KKB5uCUFNWDaYbEcTI0ta0SHyWxoup7zDMXLNSg+ji5kpBcBUgFP1xlJqqpY0AeOfemJF4KQyJFy+keVoDv19tqO8m117DbWhi3UbX9WGJy042rAhG6Wt64tGHQSf8lx4zLg1tulqOo+u5giYmKLrELZsU5flvKeQzYsXnToe29qJXEUdTpsYzHdhSJiRqoMDDbJeJcX+9XpqJgdqOePNtKqmrqUiIgFZ374CTf7lfYkXxbRM4XfHiz1Li18P1B7/H0jxabWg+drP7tfvX8agrW1TXfSSbVTbUmw3vI680Emb3fr/+jmtq7+R/1eWtN0ter2m5YEf4gSeqGVNE9hNjL+hV2vYJFP99aofmCf93Y0z/zk8/TQSp2+mymPwry0/N6Kv9tgLOOTx/DfxX/AP30KuK9lNj/AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Clients">
+		<g id="Logo">
+			<use id="4 Logo" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

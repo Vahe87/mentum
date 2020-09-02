@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 19" width="18" height="19">
+	<defs>
+		<image width="18" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAATBAMAAABvvEDBAAAAAXNSR0IB2cksfwAAAC1QTFRFAAAA////////////////////////////////////////////////////////oUirmwAAAA90Uk5TABBAIK//YO8wUJ+/gHDfCzR04wAAAI1JREFUeJxjYAACISUBBjAwCQ0NMQAx2EpDQ0PLQKz2UE/NpaENQNbWMKB46AYGBubQBUDu0mAQFyTRCpTgCQUpZo1hYOANBZlgGsvAwBF6AMg6GgEknlYAuaUPgKyp4YmM6aETQAYArQiNAjK4QsNDQ8MhQglzzkwAC4VBXMQwNTQByroKE2LgnQBlAABXtiFCIpdLjQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home">
+		<g id="Header">
+			<g id="Search">
+				<use id="Search Icon" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

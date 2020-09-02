@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 32" width="34" height="32">
+	<defs>
+		<image width="34" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAgBAMAAACFobf6AAAAAXNSR0IB2cksfwAAADBQTFRFAAAAi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZsj1YsgAAABB0Uk5TABBgcDBQgO//ryDfn0C/jxM95wkAAACnSURBVHicY2AQMmFAANEUBgaWio5ZcAGmHR0HGLg7OjoSoQK8Lzo6mhg8gCLdCmABrhNAdifDDSDZ0XcBKMCYDmZCRDp6FjAwaHcgi3SUCdzrQBWBAxwifTtg3BNQkTYmqNApDpgIA0ToFANCBCx0igFZhIHpHVAARQQCBoGIB4YINyiwUUSAsXMAVYRBKIUBTQQZkCfC3tHRjyrC1tFRhSrCkN3pAAAWDpbbeRB26QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Footer">
+				<use id="Logo" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

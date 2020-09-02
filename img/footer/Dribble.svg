@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<defs>
+		<image width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAAXNSR0IB2cksfwAAADNQTFRFAAAAi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZNFVfigAAABF0Uk5TABBAIIDf/++fYM+Pr3Awv1DVVHD6AAAAxUlEQVR4nFVQUbLEIAhTq8FSFe9/2g3SnX2PD3USSCIpvZVLudK/yrWBJb38sFsArfVRYOQX65AJLL6KQQOd0CtV6NGRuC+Ik4pKTNH85vB2bkHWFDy5eY9oBDDaN/I37lRg9LUTqYZcJ3FK+3zQV2EGMdrO+MsaQYPgDp98ICu7DhhdH28TtLtgHE0C0g7mJg08qo9SdIns9EbO3sRTlNG8Nvst3gVHy3noYMrYHNCvdx1fjD5cpJrxozL/rH735qlnLPMDnIsHRbicsOIAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Footer">
+				<g id="Social Icon">
+					<use id="Dribble" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

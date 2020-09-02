@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 32" width="34" height="32">
+	<defs>
+		<image width="34" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAgCAMAAABAUVr7AAAAAXNSR0IB2cksfwAAAIFQTFRFAAAAJio0Jio0Jio0Jio0qKqu8fLyt7i7XF9nSk5WoqSo5OTmu7zA////UVVdk5Wa1tfZfX+FycrMk5WaQUVNJio0rK2x3t7g////29zd////////////////8PDx8fHxbnF429zdqKquk5Wa////oqSoycrMk5Wa6err7u/v////0ufNowAAACt0Uk5TABBAIDDv/++AYN////9Qv/+f/4CAUM/P778QgJ8g3+8wYJ9AQHC/IJ/PMEsNG7MAAADASURBVHic7dLJDoMgEAbgARUVO1q1q0vtvr3/AxZCoyjIsafOZZKZL5M/AQAglBKwF6WebH7AWBjZQMwTtojFjQBFMZ5OgZ8lcrP0gaKqJPN1QPLiuyh7gljkQ6Qo7Mc6QQxXCqSc4QwRkdZ9iBkiIvFNMZ4YxKyebHfGbj8hZVWPUdPSKQHQUdMCWMiAJJghEh06BWbJ6Jn/xE2I+mBHB4GT7GdT6PcvdX21CEeE3xNPkZuDwF2K7uEi1RPx9YYPcEoevZDHVWYAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home">
+		<g id="Header">
+			<g id="Logo">
+				<use id="Logo" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

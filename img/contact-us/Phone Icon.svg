@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 23" width="26" height="23">
+	<defs>
+		<image width="26" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAXCAMAAAAiCq8iAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAC8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0PmYagwAAABF0Uk5TACBAcO//v9/PEK+PgGCfMFCkTVxQAAAAu0lEQVR4nIWRWRKEIAxEG0izKKL3P+0kgo7WUDX9R17WBpjIeT8Lq4KQ4ibARzJlxikgXRG+y1xIBrgAK8Mjv2YObfoyXmpdY9wcv3IoYAbq+fL+gdAWJGJkP5FYPBL+F0XwH9ILfmdlMYQwQXW1cbqian0tv+tJtnz3ofp9azKQGnGwXch6amAZe6CZJV1qXjpz2jlZU8uFWrduQJG7H7BxlJnR2iLeRd2vOv91+ykpU2TD0hwdXI535AMTdwebMCNa7QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Contact Info">
+				<use id="Phone Icon" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

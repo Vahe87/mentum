@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<defs>
+		<image width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAAXNSR0IB2cksfwAAADNQTFRFAAAAi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZNFVfigAAABF0Uk5TACBwv//fn0CAMBDvUGDPr4/F1uYfAAAAmElEQVR4nG1Q0RLDIAiLijB1tf3/rx2gnm1vedAjJgQBDCEmIsos2PjQQiqTqok22neQd05Z10Z6Ipu5vUiKwGGWNF96HtJTIysqz3amCRrTqrVWjQdfRIJGCbPwW4xUpRfdivERI4kxenXtUzSy+Jj56mNwPu3UXbzHdCO/uBb+fCl6bnmwPHdX+vbGveVjpQfcUUVkbR0/+RAGDri5UDgAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Footer">
+				<g id="Social Icon">
+					<use id="Flickr" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

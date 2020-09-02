@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 941 5" width="941" height="5">
+	<defs>
+		<image width="941" height="5" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA60AAAAFBAMAAABcLBfyAAAAAXNSR0IB2cksfwAAABtQTFRF0dXY0dXY0dXYAAAA0dXY0dXY0dXY0dXY0dXY3DMKPQAAAAl0Uk5TYL+PAECAIDD/ISw1+QAAAEVJREFUeJxjYBQcHkDZmBpguISGAoNr6PAAzFSJ1+ESGgwMKS7DAxRTJV5TBtobVAIFDBEdwwMIUyVeh0toCIzG6/CMVwCGTPgpKJlOsgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Portfolio">
+		<g id="Text">
+			<use id="Lines" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 17" width="20" height="17">
+	<defs>
+		<image width="20" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAMAAADqmnyMAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZNFVfigAAABF0Uk5TACBwr7+fYO+AUM//EN+PQDANFCUpAAAAjklEQVR4nFWP7RbDIAhD0fqREtS9/9MO1m21+YF4T5QgIpLyUVzV21bkUus4lYR5D14s0S02ot4QRNhZnnB6XRzCrxCebgGrrLUqvSQ3FWoyVdufi+QyWEyeMPpvvn9ODzTJw2QXhs7aqTtVnrGCst0sf2LGYrhh/V12mNlf15m2Pyd7BbSfj+mpAWj77Dft/QULMgqP7wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Footer">
+				<g id="Social Icon">
+					<use id="Google" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

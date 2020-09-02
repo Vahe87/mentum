@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 33" width="132" height="33">
+	<defs>
+		<image width="132" height="33" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAAAhCAMAAAAvS/PIAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3BH8nYrQAAABF0Uk5TABBAgHBgv/+f3yCP768wz1CFhHpEAAADXElEQVR4nMWX2ZbbIAxAQSxmNf7/r60kEOA0mc5p04weZoIN0kWbQakpGgyKBfVz4vwhEn6IA+Kxi08/wJCPBynuf5ly3vunL8KdAKfF439RGDTwJwZvnMm+Gms+C+EWQrQrPcv5QQhdpt1mb1GZU04YQABbxp4AWn013I2AqEggL9azjjb2fmM4KC2AKpYoo1Oaw+b7wtRj6EUhTzrapfoaw9VW0xixf0vWmyeuxs9CenCEKUcMFkwo0xWwkKpMJEPXXBV42/twW4Mh3UZHPCdE2KagujUlY2HSnGZsV5puKuYyvRlFdHTLNsx3s/qmIeoBsdzPFKs0siV3JXJTsews1xXmpPsiq1Olf4rci3FJpqPSQ4xEHwKvwbdAOiyPitPaRSZmiMROO9VJK9HhqxxGZ9Bs3/YlpKLSU8/G8W0kA4ekrWVGYuCkJLcGkLcUaQ/ich6WDpGHtq43qeVJyWbNSeVYFam4JH05hwL1EhyMxCYmJ5OUwg1EmBvCfTbgELHQPGAImjaKCL+Zp1rBkQIDLpKWBQIEQoqJIMqYjLPKVvr0c655GHEQHE9eYF0WhBSt9ZUDUr6CaJvV70KQLSMQt47cJoQ89ge7Imast5cQYhV5o1luzE8hRrbBDEcZpa2mSZHRp13PB9qgeQHhpmJKtgpzB5y2v0OM3kuFyBVERosWa5hPe8VijSYY/kXWCC8gtCBzJTnaWN8BmbG/Q3Rishe7Iif1RA2H+s5xkxYmRMvqBUQ/fwSTI+vtGwmGe3XRTyAwgr11X0MRzwy9N5tbUnA6zj9s9AWEXovYBSumx+a9DWJIEEVby+UUv26z/LcglK5jQTxnQvIQ1BMIsZiXolPOk1U/pOYRwiJhNyXsJdyj6CSuxg+OMGQ8gIV5/ko0rE7va3gRI7mKbx8U8bMsfUHLQbv1I834oksn+EfZ+8RXooPFQ50z41vWP6FN/3nhOyFuX+YRjHcxfB9Cpe3m09PiXQwLAm53mfQMzI1szcTg33gFOzH9KPsc3eu045+uQ2gL1B33y8UVGp6227Ey9p2C9wg0W22jww5aAEMjrGhT68dunR4M2kKvXFgH8WKIhk+V4RefEesL2so14rm1eccQmZ59EkL1tEzczUaK5hDflv9/LUkuP78Aw5EyWyI70U0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Clients">
+		<g id="Logo">
+			<use id="5 Logo" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

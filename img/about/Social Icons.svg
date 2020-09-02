@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 13" width="33" height="13">
+	<defs>
+		<image width="33" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAANCAMAAAAQVPcQAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCXhpCX3MCuAAAAABF0Uk5TADCvv+//QIAQUN/Pn2CPIHBSCPF5AAAAf0lEQVR4nH2P4Q6AIAiEDxE1Le39nza05cpp9wPc/LgDAGSYCX+yIuJmH+Q9hU27SBw8KAWtTifF7u3hh2EnUU1NJeRATtXjm1I0OOZYAQa4kW7w6NKQ2+O7R7CdODHdA2dHyoIoD5GxIPTeBiQsiM3fgAkrIhwmWd6fA6cpL12IAQQkjwSiQAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="About Us">
+		<g id="Team">
+			<g id="Team 1">
+				<use id="Social Icons" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

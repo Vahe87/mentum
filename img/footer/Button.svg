@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 59" width="60" height="59">
+	<defs>
+		<image width="60" height="59" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA7BAMAAADV1/T5AAAAAXNSR0IB2cksfwAAAC1QTFRFC8e0C8e0C8e0C8e0C8e0C8e0C8e0AAAAC8e0C8e0C8e0C8e0C8e0C8e0C8e0YuBLZQAAAA90Uk5TQP+A7yC/MADPEFDfYHCP+qfRPQAAAJFJREFUeJxjYBTEA4QYRqVHpQeltIErPmnh9PJGPNJm5eUzcEsDNZdXNuKUBmpG1Y4iDdKMqh1FurO8HE07srTE9PLysuUo2pGlQZqTxVC0I0mDNRuiOh5JWgSkGeJ6ZyzSYiDNEOdXYJGWng7SDNZ+EKvTQJpB2muwulw4EELbPsQqjQWMSo9K0086NRQPiAEAMqCe/GPnE+AAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Footer">
+				<g id="Back To Top">
+					<use id="Button" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

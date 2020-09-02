@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 27" width="33" height="27">
+	<defs>
+		<image width="33" height="27" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAbCAMAAADF2xaWAAAAAXNSR0IB2cksfwAAADNQTFRFAAAA////////////////////////////////////////////////////////////////t5XiggAAABF0Uk5TAGCvz/+/jyAQcDCf3+9AUICK+1H5AAAAzUlEQVR4nIWS2xaEIAhFUfFKqf//tRPjWKK25jy0CHYHxABWKW3QOs+h52eIsu4NNilIhEzEKxwUDuw6ER2nNOLoQjiIMgUAy1G4e6AUf8wEHrlPKQHinGuxLV+iLg4Aub8eroSJ+BnrMWc2RMwyO+hohH2rX7M1wr0Tbr+BQQX+mdx7pBdAP3dR9qfJN6C29X6S6cL3FgDp3ABO/FdpdTEBpJSWPqefAPBaAmmql2klogVZu2yjThPMU9IywtXjmdLGtd4GzbHWWvKm9AFnXQs2BdbjqQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Tweeter">
+				<use id="Small Tweeter Icon" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

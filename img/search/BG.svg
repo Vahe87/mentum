@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81 80" width="81" height="80">
+	<defs>
+		<image width="81" height="80" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAABQCAMAAABWDWmhAAAAAXNSR0IB2cksfwAAAGNQTFRFGSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7k3OaigAAACF0Uk5TgP+/gcCDw4XGicuO0JbWm96l5a3tuPP3yfrP/dUA/tnbnbWOZAAAAJRJREFUeJztzMsOgkAQRNFC8YGi4BNFGf3/rzSgJkwkuKnlrcVkUt19pMSbiRARERERERERERERERERERERERER3+LULKaamcW5FmZxqcwsrrQ2i7k2ZnGrwiyW2pnFvQ5m8aiTWTwrNYuVLmbxqtos3nT/fpsu8Xig+7cW9IjaaHmgGu0+4rN9Q9PLz3HvfHyt7cIL6bEnF0lXsZsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home">
+		<g id="Header">
+			<g id="Search">
+				<use id="BG" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

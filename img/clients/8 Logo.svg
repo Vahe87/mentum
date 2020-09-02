@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113 34" width="113" height="34">
+	<defs>
+		<image width="113" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHEAAAAiCAMAAABfusa7AAAAAXNSR0IB2cksfwAAADNQTFRFAAAAub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3Bub3BH8nYrQAAABF0Uk5TAED/z7+vn1Aw79+AII9gEHANhXqKAAADAUlEQVR4nO1XSZLkIAxkXwwG//+1A5IA4S63e2Jibp2XMga0JCnhEqJDKg4aSpjS/dEIOya18/BewMgG9YIojvFoHJrsSHyNpmFehs+1rS8IM8hU3jyayke2kkfL3zocRpZ92bap2IK54Em6N49p5+8kjzwDdeHQwAwaDvs2ZYVAV0j6d/BpHyNzwiDQscSEEsyQYdxmTKR9FV1p3IluD8MGywMSZkZS6yiZeUzIfxHO0VmOtA9+nGBEyA+DwV8jpVqWyADF/SQcu0QmMaqLR1q3sAcWYeVDjhT3k3AgvBP3bZnowQBjZWBVmuXnyCefhSOXyPZM1GRgsSJkRyBOqqj4oLcUKe5H4dRJqh0HAAj8gIgVkWkhZmaMQvjN47twAhVu2YSzHdCg21MYW+GNHQMvwlnQYhPOORlYYZMVv7WOeO0O34SzNua9BAwxwMPGlyrz1qHzzeGbcAaOIN6E08grqWPv2HePb8KhBFNlmTwIZ7GHCqho6Lx5RFVswomY7mj00bhSt0w6PgpngFoHpjGYFymsUDW/HAvn2YqFd+EQJmF4rGHEGFtGQdOknARQD82c5w+ZfBXOIQl5hp+YjdDtRur4TYZ0q+txCbjtk+BDJoozoDb42TrQBuixbrdLErfLUsXKOs52Os/Cmcir0tQ04vkKtygbDoNYV9V+OptwPKd7bmaVZtYyOXOKiUsBAJ80D8IpfHXmdA8YpoDEoqwF/Os0C1Q6cHJYjByu9sI8FnhDwjthIPhgoAT4AQXg470if/GL/4z7tfOPkFFDO0m6l0TTtms/GqpBQhXkAxYYffTqMe2/h+jN0rSSVcW3Aig6jtr5Ea4kdC8hrCNXZG83cUw12EtoeJX6MJrY4yi91IJyqYzBz9H+rkGriVDXKfVMZYTixX9yCgLI8Twau9Iq1/vR2Rkp5wHJneUb+1+hc+kpZOzU3uiZnMAvFSWuFou3Ej4nrwsm0ZPXQMZfcdoMatjgMS0J15Q7TE9PQdpa90+dhBdyW3vOKZNPQyw84g8qXx33b1LAbAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Clients">
+		<g id="Logo">
+			<use id="8 Logo" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

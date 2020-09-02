@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 18" width="12" height="18">
+	<defs>
+		<image width="12" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAASBAMAAACdhyI/AAAAAXNSR0IB2cksfwAAACpQTFRFAAAAGSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw7GSw71e6B/AAAAA50Uk5TACBAMO//n3AQz2CvgFBFiKz/AAAARklEQVR4nGNgEGIAAWbXBBAlEhoGokpDQ0HczlAwl2MqKtcVwjUJDY2CU8wQQROwEhQOw9bQ0ANA6ipYNQNX6AKwhcYgAgAMYRVa4j7GiQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home">
+		<g id="Content">
+			<g id="Slider">
+				<g id="Navigation">
+					<use id="Right Arrow" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

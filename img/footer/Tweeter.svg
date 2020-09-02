@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16" width="20" height="16">
+	<defs>
+		<image width="20" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAMAAAAhxq8pAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZi5KZNFVfigAAABF0Uk5TACBgv//PgBCvcI/vn0DfMFBTB4F3AAAAeklEQVR4nF2PURaFIAhEUVBfKNT+V/vQMLP5Ee+BYQAIMBWRUoaSrfwdzpi6ErHVldpggVxJAJRI7YE8YbRP64WyNGfdEg7aNaB+4NibP/DssKSN6Z1PNgNPLVtjmefVBeU5uuA7uOmUi6dpvbwrtGe0FVjDkRGR40J/Hh4EumBjiiwAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Footer">
+				<g id="Social Icon">
+					<use id="Tweeter" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

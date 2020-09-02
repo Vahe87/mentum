@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 10" width="11" height="10">
+	<defs>
+		<image width="11" height="10" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAKBAMAAACQ3rmwAAAAAXNSR0IB2cksfwAAAC1QTFRFAAAAC8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0oawxzgAAAA90Uk5TABBwIFCAMO//35/PQL9gW/mPKgAAAD5JREFUeJxjYFQycE1gYEjvqOzoYmDY0QEECQwgsuMAwwwI5QEkexkY+IDURgYGhhcd3QIMIC6Iw8DgBeQAAFhQFftvJ+ORAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Portfolio">
+		<g id="Frames">
+			<g id="Frame 6">
+				<use id="Heart Symbol copy 5" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 475" width="1600" height="475">
+	<defs>
+		<image width="1600" height="475" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABkAAAAHbAQMAAACpxMTqAAAAAXNSR0IB2cksfwAAAANQTFRFGSw7PLcnrwAAAHNJREFUeJztwTEBAAAAwqD1T+1tB6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAMdQIAASK726oAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home">
+		<g id="Content">
+			<g id="Background">
+				<use id="Dark Bg" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

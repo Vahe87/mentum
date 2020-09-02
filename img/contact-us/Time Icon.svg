@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 25" width="22" height="25">
+	<defs>
+		<image width="22" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAZCAMAAAACPC7cAAAAAXNSR0IB2cksfwAAADNQTFRFAAAAC8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0C8e0PmYagwAAABF0Uk5TAGDf/89QcJ+AQK8gvxCPMO+nv/zQAAAA3ElEQVR4nF1RWYLFIAjDHet6/9M+gtaxw0cbY4xBiMhY53wgreCdsxEoOS0GNgsnorzAVuclCip+SokVyxpLeUCQLGNjd6o3car0OFM8BJwzQ2mHEdpwm7BZ3rCYIxqBokWkzGWH8fuv4dhlPRDX2q7dQ0uIqbnDl1aGsfeh5XyXgPU/DapKS5tOzGwUgT5qbV9Ql2/fQahk1NAoCbF3h281tNf0ee9iFcrLjpsdU0OUKY9zWfjtKu7zjUxZBmsWxARraJgwZhVfSZh/05nhMmS7SMvtG2sE6fxc/QMF0weNiqaN1wAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact Us">
+		<g id="Contact Us">
+			<g id="Contact Info">
+				<use id="Time Icon" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>
